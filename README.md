@@ -1,6 +1,9 @@
-## Hi there 👋
+# My Developer Portfolio
 
-## About Me
-Hi I’m just learning ## Markdown## and *customizing* my GitHub profile.
+### About Me
+I'm an aspiring developer passionate about learning new technologies and building cool projects.
 
-Check out [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) for more tips.
+---
+
+### Projects
+
